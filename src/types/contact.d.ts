@@ -38,3 +38,8 @@ export interface MediCentreDB {
   contact: MediCentreContact[];
   practitioners: MediCentrePractitioners[];
 }
+
+type FooterSection = {
+  title: string;
+  links: string[];
+};
