@@ -7,9 +7,9 @@ export const mediCentreDB: MediCentreDB = {
       id: "hours",
       title: "Our Hours",
       hour_content: [
-        { id: "mon-thu", text: "Mon - Thu: 7h30 - 17h00" },
-        { id: "fri", text: "Friday: 7h30 - 13h00" },
-        { id: "sat", text: "Saturday: 8h00 - 12h00" },
+        { id: "mon-thu", text: "Mon - Thu: 07:30 - 17:00" },
+        { id: "fri", text: "Friday: 07:30 - 13:00" },
+        { id: "sat", text: "Saturday: 08:00 - 12:00" },
       ],
     },
   ],
